@@ -1,0 +1,172 @@
+
+body 
+{
+    display: grid;
+    grid-template-areas: 
+        'header header'
+        'nav nav'
+        'aside main'
+        'footer footer';
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: auto;
+    gap: 10px;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+header 
+{
+    grid-area: header;
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+nav 
+{
+    grid-area: nav;
+    background-color: #dddddd;
+    padding: 20px;
+    text-align: center;
+}
+nav ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+nav ul li 
+{
+    display: inline;
+}
+nav ul li a 
+{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    cursor: pointer;
+}
+aside 
+{
+    grid-area: aside;
+    background-color: #eee;
+    padding: 20px;
+    text-align: center;
+}
+aside .section 
+{
+    display: none;
+}
+aside div ul li a 
+{
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+aside div ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    gap: 15px;
+}
+main 
+{
+    grid-area: main;
+    background-color: #fff;
+    padding: 20px;
+}
+footer 
+{
+    grid-area: footer;
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+.flex 
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: white;
+  border: 2px solid black;
+  padding: 20px;
+  font-size: 2rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) 
+{
+  body 
+  {
+    grid-template-areas: 
+      'header'
+      'nav'
+      'aside'
+      'main'
+      'footer';
+    grid-template-columns: 1fr;
+  }
+  nav ul
+  {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) 
+{
+    nav ul li a 
+    {
+      font-size: 14px;
+    }
+    header, nav, aside, main, footer 
+    {
+      padding: 10px;
+    }
+}
+
+table 
+{
+  margin: auto;
+  width:80%;
+  max-width: 700px;
+  max-height: 400px;
+  border-collapse: collapse;
+  border: 1px solid black;
+  overflow: auto;
+}
+
+th,
+td 
+{
+  min-width: 50px;
+  text-align: left;
+  padding: 5px;
+}
+
+tr:nth-child(even) 
+{
+  background-color: lightgray;
+}
+tr:hover 
+{
+  background-color: lightblue;
+}
+tr.selected
+{
+  background-color: lightgreen;
+}
+th 
+{
+  background-color: gray;
+  color: white;
+}
+input 
+{
+  margin: 0;
+  width: auto;
+}

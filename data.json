@@ -1,0 +1,191 @@
+[
+  {
+    "id": "101",
+    "type": "Exbo",
+    "category": "London",
+    "title": "The Body as Matter (June 6 - July 26)",
+    "url": "https://gagosian.com/exhibitions/2024/the-body-as-matter-giacometti-nauman-picasso/"
+  },
+  {
+    "id": "102",
+    "type": "Exbo",
+    "category": "New York",
+    "title": "A Foreigner Called Picasso",
+    "url": "https://gagosian.com/exhibitions/2023/a-foreigner-called-picasso-curated-by-annie-cohen-solal-and-verane-tasseau/"
+  },
+  {
+    "id": "103",
+    "type": "Exbo",
+    "category": "Paris",
+    "title": "Bustes des Femmes",
+    "url": "https://gagosian.com/exhibitions/2020/bustes-de-femmes-paris-10th-anniversary-exhibition/"
+  },
+  {
+    "id": "1",
+    "type": "Links",
+    "category": "WebLinks",
+    "title": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+  },
+  {
+    "id": "2",
+    "type": "Links",
+    "category": "WebLinks",
+    "title": "WikiArt",
+    "url": "https://www.wikiart.org/en/pablo-picasso"
+  },
+  {
+    "id": "3",
+    "type": "Links",
+    "category": "WebLinks",
+    "title": "Department of European Paintings",
+    "url": "https://www.metmuseum.org/toah/hd/pica/hd_pica.htm"
+  },
+  {
+    "id": "104",
+    "type": "Exbo",
+    "category": "Paris",
+    "title": "Harmony and Dissonance: Orphism in Paris, 1910–1930",
+    "url": "https://www.guggenheim.org/exhibition/harmony-and-dissonance-orphism-in-paris-1910-1930"
+  },
+  {
+    "id": "4",
+    "type": "Links",
+    "category": "Bibliography",
+    "title": "Picasso: Creator and Destroyer",
+    "url": "https://www.goodreads.com/book/show/376880.Pablo_Picasso_Creator_and_Destroyer"
+  },
+  {
+    "id": "5",
+    "type": "Links",
+    "category": "Bibliography",
+    "title": "Picasso and His Art",
+    "url": "https://archive.org/details/picassoandhisart"
+  },
+  {
+    "id": "6",
+    "type": "Links",
+    "category": "Bibliography",
+    "title": "The Private Life of Picasso",
+    "url": "https://www.goodreads.com/book/show/1044094.The_Private_Life_of_Picasso"
+  },
+  {
+    "id": "7",
+    "type": "Links",
+    "category": "Bibliography",
+    "title": "Picasso's Guernica: History, Transformations, Meanings",
+    "url": "https://www.goodreads.com/book/show/1407591.Picasso_s_Guernica"
+  },
+  {
+    "id": "8",
+    "type": "Links",
+    "category": "WebLinks ",
+    "title": "Picasso Museum",
+    "url": "https://www.museepicassoparis.fr"
+  },
+  {
+    "id": "9",
+    "type": "Links",
+    "category": "WebLinks ",
+    "title": "The Art Story",
+    "url": "https://www.theartstory.org/artist/picasso-pablo"
+  },
+  {
+    "id": "10",
+    "type": "Links",
+    "category": "WebLinks",
+    "title": "Reina Sofia Museum",
+    "url": "https://www.museoreinasofia.es/en/collection/artwork/guernica"
+  },
+  {
+    "id": "11",
+    "type": "Links",
+    "category": "WebLinks",
+    "title": "MoMA",
+    "url": "https://www.moma.org/artists/4609"
+  },
+  {
+    "id": "105",
+    "type": "Exbo",
+    "category": "Paris",
+    "title": "The Young Picasso: Blue and Rose Periods",
+    "url": "https://www.musee-orsay.fr/en/whats-on/exhibitions/young-picasso-blue-and-rose-periods"
+  },
+  {
+    "id": "106",
+    "type": "Exbo",
+    "category": "London ",
+    "title": "Picasso and Paper",
+    "url": "https://www.royalacademy.org.uk/exhibition/picasso-and-paper"
+  },
+  {
+    "id": "107",
+    "type": "Exbo",
+    "category": "London",
+    "title": "The Vollard Suite",
+    "url": "https://www.britishmuseum.org/exhibitions/picasso-vollard-suite"
+  },
+  {
+    "id": "108",
+    "type": "Exbo",
+    "category": "London",
+    "title": "Picasso 1932 – Love, Fame, Tragedy",
+    "url": "https://www.tate.org.uk/whats-on/tate-modern/exhibition/ey-exhibition-picasso-1932-love-fame-tragedy"
+  },
+  {
+    "id": "109",
+    "type": "Exbo",
+    "category": "Paris",
+    "title": "Jackson Pollock: The Early Years",
+    "url": "https://www.museepicassoparis.fr/en/exhibition/jackson-pollock-early-years-1934-1947"
+  },
+  {
+    "id": "110",
+    "type": "Exbo",
+    "category": "Paris",
+    "title": "Picasso Celebration 1973-2023",
+    "url": "https://www.museepicassoparis.fr/en/picasso-celebration-1973-2023"
+  },
+  {
+    "id": "111",
+    "type": "Exbo",
+    "category": "New York",
+    "title": "Les Demoiselles d'Avignon",
+    "url": "https://www.moma.org/collection/works/79766"
+  },
+  {
+    "id": "112",
+    "type": "Exbo",
+    "category": "New York",
+    "title": "Picasso in The Metropolitan Museum of Art",
+    "url": "URL: https://www.metmuseum.org/exhibitions/listings/2010/picasso"
+  },
+  {
+    "id": "113",
+    "type": "Exbo",
+    "category": "New York",
+    "title": "It's Pablo-matic: Picasso According to Hannah Gadsby",
+    "url": "https://www.brooklynmuseum.org/exhibitions/its_pablo_matic_picasso_according_to_hannah_gadsby"
+  },
+  {
+    "id": "114",
+    "type": "Exbo",
+    "category": "New York",
+    "title": "Picasso Sculpture",
+    "url": "https://www.moma.org/calendar/exhibitions/1544"
+  },
+  {
+    "id": "115",
+    "type": "Exbo",
+    "category": "London",
+    "title": "Picasso Ingres: Face to Face",
+    "url": "https://www.nationalgallery.org.uk/exhibitions/past/picasso-ingres-face-to-face"
+  },
+  {
+    "id": "116",
+    "type": "Exbo",
+    "category": "London",
+    "title": "Picasso & Modern British Art",
+    "url": "https://www.tate.org.uk/whats-on/tate-britain/picasso-modern-british-art"
+  }
+]
